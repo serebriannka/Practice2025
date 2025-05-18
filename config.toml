@@ -1,0 +1,6 @@
+baseURL = 'https://SERVISCES_PPO.org/'
+languageCode = 'ru-en'
+title = 'Сервисы профсоюзной организации'
+theme:"gokarna"
+[params.disqus]
+  enable = false
